@@ -1,0 +1,5 @@
+{
+  "name": "MonoWall Generator",
+  "description": "A minimalist, code-aesthetic wallpaper generator inspired by Processing sketches. Create high-resolution, data-driven color wallpapers.",
+  "requestFramePermissions": []
+}
